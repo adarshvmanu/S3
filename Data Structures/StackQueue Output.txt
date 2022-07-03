@@ -1,0 +1,90 @@
+---MAIN MENU---
+
+1.Stack
+2.Queue
+3.Exit
+Enter your choice(1-3):1
+--STACK MENU--
+ 1.Push
+ 2.Pop
+ 3.Display
+ 4.Close
+
+Select Your Option:1
+Enter data:20
+
+Select Your Option:1
+Enter data:22
+
+Select Your Option:3
+Elements : 22 20
+Select Your Option:2
+Node Popped...
+Select Your Option:3
+Elements : 20
+Select Your Option:2
+Node Popped...
+Select Your Option:2
+Underflow
+Select Your Option:4
+
+ Closing Stack Menu
+---MAIN MENU---
+
+1.Stack
+2.Queue
+3.Exit
+Enter your choice(1-3):2
+
+--QUEUE MENU--
+ 1.Insert
+ 2.Delete
+ 3.Display
+ 4.Close
+
+Select Your Option: 1
+Enter the Element:12
+
+Select Your Option: 1
+Enter the Element:23
+
+Select Your Option: 1
+Enter the Element:34
+
+Select Your Option: 3
+Elements : 12 23 34
+
+Select Your Option: 2
+Node Deleted..
+
+Select Your Option: 3
+Elements : 23 34
+
+Select Your Option: 1
+Enter the Element:4
+
+Select Your Option: 3
+Elements : 23 34 4
+
+Select Your Option: 2
+Node Deleted..
+
+Select Your Option: 2
+Node Deleted..
+
+Select Your Option: 2
+Node Deleted..
+
+Select Your Option: 2
+List is empty!!
+Select Your Option: 3
+List is empty!!
+Select Your Option: 4
+
+ Closing Queue Menu
+---MAIN MENU---
+
+1.Stack
+2.Queue
+3.Exit
+Enter your choice(1-3):3

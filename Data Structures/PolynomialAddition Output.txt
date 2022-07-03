@@ -1,0 +1,35 @@
+Enter the First polynomial:
+
+ Coeffecient: 4
+
+ Exponent: 2
+
+Have more terms? 1 for y and 0 for no: 1
+
+ Coeffecient: 3
+
+ Exponent: 1
+
+Have more terms? 1 for y and 0 for no: 0
+
+
+Polynomial expression is: 4X^2+3X^1
+Enter the Second polynomial:
+
+ Coeffecient: 5
+
+ Exponent: 2
+
+Have more terms? 1 for y and 0 for no: 1
+
+ Coeffecient: 2
+
+ Exponent: 1
+
+Have more terms? 1 for y and 0 for no: 0
+
+
+Polynomial expression is: 5X^2+2X^1
+The resultant
+
+Polynomial expression is: 9X^2+5X^1
